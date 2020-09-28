@@ -1,13 +1,17 @@
-# GoWind
+---
+title: "GoWind"
+date: 2020-09-27T22:15:07-04:00
+draft: false
 
+---
 [**GoWind**](https://github.com/j-delisle/gowind) is an extremely simple boilerplate that I use to get a Hugo site up and running using Tailwind CSS.
 
 ## Includes
 
 This boilerplate includes all that is needed at a minimum to get a Hugo site up and running with Tailwindcss - this includes the tailwind css dependecies of:
 - PostCSS
-  - import
-  - CLI
+- PostCSS-import
+- PostCSS-CLI
 - PurgeCSS
 - autoprefixer
 
