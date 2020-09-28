@@ -1,7 +1,7 @@
 {
   "name": "gowind",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple and minimum boilerplate for Hugo site using Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
